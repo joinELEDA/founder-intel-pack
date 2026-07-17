@@ -22,7 +22,7 @@ Never attribute a finding to a founder without two independent matching anchors:
 
 Funding (VC, angel, crowdfunding) · exits and acquisitions · grants and government contracts · jobs created and key hires · press features · partnerships and major customers · program acceptances (YC, Techstars, and similar) · competition and award wins · launches (product, location, book, permit-to-open) · expansion (new location, retail placement, new market) · founder milestones (went full time, left day job) · content that traveled (essay, podcast appearance, widely picked-up post).
 
-**A changed state since intake is a WIN even without a press date.** A promotion, a new venture, a new role, a product that didn't exist at intake: report it with found_date "as of [scan date]". QUIET is only for unchanged persistence. Don't invent discrete events, but don't demote real state-changes to QUIET because no article dated them.
+**A changed state since intake is a WIN even without a press date, but it must actually be a change.** A promotion, a new venture, a new role, a product that didn't exist at intake: report it with found_date "as of [scan date]". QUIET is only for unchanged persistence. Don't invent discrete events, but don't demote real state-changes to QUIET because no article dated them. And check the other direction before reporting: compare against the intake data and look for a start date. A role that was already true at intake, or whose start you can't place after the program, is WATCH or QUIET, not WIN.
 
 Wins that predate the program get reported too, with their dates. The operator decides relevance; you never silently exclude on timing.
 

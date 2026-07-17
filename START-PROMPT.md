@@ -13,7 +13,7 @@ Scan every founder on the roster per the protocol's search steps. Hard rules, no
 - Every WIN carries a source URL captured at the moment you found it.
 - Verify "site live" claims by actually fetching the domain, not by trusting a search snippet.
 - Role claims sourced only from third-party bio, directory, or profile pages (data brokers, Crunchbase, event-speaker bios, course-instructor bios) are UNVERIFIED. Stating a role as fact requires the person's own live profile, their company's site, or an original dated announcement.
-- A changed state since intake (new role, new venture, promotion, shipped product) is a WIN with found_date "as of [today]". QUIET is only for unchanged persistence.
+- A changed state since intake (new role, new venture, promotion, shipped product) is a WIN with found_date "as of [today]". QUIET is only for unchanged persistence. But verify it IS a change: a role already held at intake, or one whose start date you can't place after the program, is WATCH or QUIET, not WIN.
 - Report wins that predate the program with their dates; the operator decides what counts.
 
 If a report file from a previous run exists in this folder, read it first and report only what's new.
