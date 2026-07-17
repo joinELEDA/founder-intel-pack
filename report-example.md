@@ -1,4 +1,4 @@
-# Founder Intel report — Springfield Accelerator Cohort 3
+# Founder Intel report: Springfield Accelerator Cohort 3
 
 Run date: 2026-07-17 · Founders tracked: 12 · **Wins this run: 3** · Watch: 2 · Quiet: 4 · Pending: 2 · Unverified: 1
 
