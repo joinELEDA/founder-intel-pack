@@ -21,6 +21,8 @@ This pack is built around one fear: a report that says a founder raised money wh
 
 The scan reports what it finds with dates, including wins that predate your program. You decide what counts. That's an operator judgment, and no part of this pack makes it for you.
 
+**Treat the report as a tip sheet, not gospel.** If you've graduated 400 founders, you were never going to Google all of them. Founder Intel's job is to point at the handful worth a closer look: the one who quietly had an exit, the one whose company just did something awesome. Before you repeat any finding, take that closer look yourself. Open the source link, check their LinkedIn, run a search of your own. Verifying is your half of the work, and it's minutes per founder instead of hours across the whole roster.
+
 ## Fair warning: this is early
 
 We use this system on our own cohorts and it works, but the self-serve version is young and there's some artfulness in getting it set up well: roster quality matters, AI models vary, and the first run usually teaches you something about your own data. If you hit friction, that's expected, and we want to hear about it (open an issue or email us). If you'd rather skip the setup entirely, [we'll run it for you](mailto:cam@joineleda.org?subject=Founder%20Intel%20access).
