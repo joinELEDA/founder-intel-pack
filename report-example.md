@@ -25,3 +25,7 @@ Run date: 2026-07-17 · Founders tracked: 12 · **Wins this run: 3** · Watch: 2
 
 - Jordan Lee, Chris Park: no second identifier; a LinkedIn URL would move both to Tier A.
 - Four founders have no venture domain on file; dead-or-alive site checks were skipped for them.
+
+---
+
+*Findings are leads, not verdicts. Verify a WIN at its source before you report it up the chain.*

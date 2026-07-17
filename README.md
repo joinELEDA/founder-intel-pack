@@ -21,6 +21,10 @@ This pack is built around one fear: a report that says a founder raised money wh
 
 The scan reports what it finds with dates, including wins that predate your program. You decide what counts. That's an operator judgment, and no part of this pack makes it for you.
 
+## Fair warning: this is early
+
+We use this system on our own cohorts and it works, but the self-serve version is young and there's some artfulness in getting it set up well: roster quality matters, AI models vary, and the first run usually teaches you something about your own data. If you hit friction, that's expected, and we want to hear about it (open an issue or email us). If you'd rather skip the setup entirely, [we'll run it for you](mailto:cam@joineleda.org?subject=Founder%20Intel%20access).
+
 ## Repeat runs
 
 Keep the report the AI writes. Next quarter, run the same prompt again; the protocol tells the AI to read the previous report first and surface only what's new.
