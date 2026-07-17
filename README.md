@@ -1,6 +1,6 @@
 # Founder Intel (bring-your-own-AI edition)
 
-Every program operator gets the same question from funders and boards: "What happened to your founders?" Almost nobody has a good answer, because tracking alumni is tedious and it always loses to this week's fires.
+People who support founders for a living get measured on the success of their founders. Tracking that success is the hard part: Google Alerts don't work, and following everyone on LinkedIn isn't enough. Wins happen in other cities, on other platforms, years after your program ends.
 
 This pack turns that chore into a one-hour AI run. You give your AI this folder and your alumni roster; it scans the public web for what your founders went on to do (companies still alive, funding raised, press, launches, wins you never heard about) and hands you a report you can put in front of a funder.
 
