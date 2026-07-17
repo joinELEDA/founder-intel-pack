@@ -4,6 +4,11 @@ People who support founders for a living get measured on the success of their fo
 
 This pack turns that chore into a one-hour AI run. You give your AI this folder and your alumni roster; it scans the public web for what your founders went on to do (companies still alive, funding raised, press, launches, wins you never heard about) and hands you a report you can put in front of a funder.
 
+| ![A plain spreadsheet of alumni names, ventures, and cities](assets/roster-in.png) | ![A Founder Intel report: wins, watch items, and statuses, each with a source](assets/report-out.png) |
+|:--:|:--:|
+| **1. You send your alumni roster** | **2. You get back a report you can hand a funder** |
+
+
 ## What you need
 
 1. **An AI that can browse the web and read files.** Claude Code is what we built this with; any capable assistant with web search and file access works.
