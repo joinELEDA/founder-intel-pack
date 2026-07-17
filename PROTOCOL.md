@@ -42,7 +42,7 @@ State each founder's tier in the report so the operator sees that better intake 
 4. **Verify liveness by fetching, not by snippet.** "Site live" claims require actually loading the domain; a dead domain is itself a finding.
 5. Check the founder's local and regional business media by name (city business journals, local news, chamber-of-commerce announcements). Local outlets catch wins that generic search misses.
 6. Where relevant, check public records: business registries (in the US: Secretary of State filings, county DBA and permit notices), SEC EDGAR full-text search for Form D, SBIR.gov, USAspending. Outside the US, use the national equivalents.
-7. Role and employment claims sourced only from data aggregators (TheOrg, ZoomInfo, Apollo, RocketReach) are UNVERIFIED. Aggregator data rots; use the person's own profile or an original source.
+7. Role and employment claims sourced only from aggregator-class pages are UNVERIFIED, and "aggregator" means ANY third-party bio, directory, or profile page: data brokers (TheOrg, ZoomInfo, Apollo, RocketReach), Crunchbase people pages, event-speaker bios, course-instructor bios, conference sites. Third-party bios fossilize whatever role was true when they were written. A role stated as fact needs the person's own live profile, their company's site, or an original dated announcement.
 8. Date every finding and capture its source URL at the moment you find it, in the same entry. "[URL to add]" is never acceptable.
 
 Budget: roughly 1 to 3 searches for quiet main-street businesses, up to 5 for active startups with open threads. A full cohort pass is a bounded session, not open-ended research.

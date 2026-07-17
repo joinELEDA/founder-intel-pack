@@ -12,7 +12,7 @@ Scan every founder on the roster per the protocol's search steps. Hard rules, no
 - Every founder on the roster gets exactly one entry with a status (WIN, WATCH, QUIET, PENDING, or UNVERIFIED). No silent drops.
 - Every WIN carries a source URL captured at the moment you found it.
 - Verify "site live" claims by actually fetching the domain, not by trusting a search snippet.
-- Role claims sourced only from aggregator sites (TheOrg, ZoomInfo, Apollo, RocketReach) are UNVERIFIED.
+- Role claims sourced only from third-party bio, directory, or profile pages (data brokers, Crunchbase, event-speaker bios, course-instructor bios) are UNVERIFIED. Stating a role as fact requires the person's own live profile, their company's site, or an original dated announcement.
 - A changed state since intake (new role, new venture, promotion, shipped product) is a WIN with found_date "as of [today]". QUIET is only for unchanged persistence.
 - Report wins that predate the program with their dates; the operator decides what counts.
 
